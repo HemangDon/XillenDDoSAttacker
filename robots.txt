@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://github.com/BengaminButton/XillenDDoSAttacker/sitemap.xml
+
+# Disallow sensitive files
+Disallow: /engine/
+Disallow: /build/
+Disallow: /distributed/
+Disallow: /*.log
+Disallow: /test_*.py
+Disallow: /deploy_to_github.py
+Disallow: /create_repo.py
+
+# Allow important files
+Allow: /README.md
+Allow: /QUICK_START.md
+Allow: /DDoS_GUIDE.md
+Allow: /requirements.txt
+Allow: /CMakeLists.txt
+Allow: /build.bat
+Allow: /build.sh
+Allow: /XillenDoS_Monster.py
+Allow: /main.py
+Allow: /index.html
