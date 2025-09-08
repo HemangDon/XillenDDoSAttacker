@@ -1,0 +1,7 @@
+requests>=2.28.0
+urllib3>=1.26.0
+dnspython>=2.2.0
+colorama>=0.4.4
+psutil>=5.9.0
+aiohttp>=3.8.0
+aiofiles>=22.1.0
